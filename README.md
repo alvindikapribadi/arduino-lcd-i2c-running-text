@@ -38,7 +38,7 @@ This is a beginner friendly Arduino project and a great continuation after the *
 
 You can download the Arduino sketch here:
 
-[Download Arduino Code](Arduino_Rotary_Encoder_Test.ino)
+[Download Arduino Code](Arduino_LCD_I2C_Running_Text.ino)
 
 Or open the `.ino` file directly inside this repository.
 
