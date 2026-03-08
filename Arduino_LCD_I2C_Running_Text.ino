@@ -32,7 +32,6 @@ void setup()
   lcd.init();
   lcd.backlight();
 
-  // Menggabungkan teks supaya looping
   scrollText = text + text;
 }
 
@@ -46,3 +45,4 @@ void loop()
     delay(300);
   }
 }
+
