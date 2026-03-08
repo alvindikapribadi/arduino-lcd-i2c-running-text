@@ -54,7 +54,7 @@ Install this library from **Arduino Library Manager**:
 
 Watch the full step-by-step tutorial on YouTube:
 
-👉 https://youtu.be/QSZGTJiMycU
+👉 
 
 ---
 
